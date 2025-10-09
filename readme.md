@@ -1,7 +1,7 @@
 <!-- 💫 GitHub Profile README by Muhammad Tahir -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff">Muhammad Tahir</span></h1>
-<h3 align="center">🚀 Full Stack Developer | React Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Problem Solver</h3>
 
 ---
 
