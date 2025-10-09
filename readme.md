@@ -52,16 +52,16 @@
 If you like what I do, consider **starring my repositories** 🌟 or **buying me a coffee** ☕  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad_tahir_sultan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://x.com/muhammad_tahir_sultan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:tahirsultanofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://tahirdev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
