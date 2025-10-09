@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-tahir_sultan&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-tahir_sultan&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-tahir-sultan&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-tahir-sultan&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ If you like what I do, consider **starring my repositories** 🌟 or **buying me
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammad-tahir_sultan&color=58a6ff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=muhammad-tahir-sultan&color=58a6ff&style=flat-square" alt="Profile views" />
 </p>
 
 ⭐ *Thanks for stopping by! Don’t forget to check out my pinned projects below.*
