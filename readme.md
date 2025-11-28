@@ -30,14 +30,14 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/muhammad-tahir-sultan/chat-app-socket-io-MERN/main/demo.png" width="100%" alt="Chat App"/>
+      <img src="https://i.ytimg.com/vi/tTCam8KGVRE/sddefault.jpg" width="100%" alt="Chat App"/>
       <h3>💬 Real-time Chat App (MERN + Socket.io)</h3>
       <p>Realtime messaging with authentication & WebSocket integration.</p>
       <a href="https://chat-app-socket-io-mern.vercel.app/" target="_blank">🔗 Live Demo</a> | 
       <a href="https://github.com/muhammad-tahir-sultan/chat-app-socket-io-MERN" target="_blank">📂 Code</a>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/muhammad-tahir-sultan/rtk-query-implementation/main/demo.png" width="100%" alt="Todo App"/>
+      <img src="https://i.ytimg.com/vi/Z0OZUuBN4ng/sddefault.jpg" width="100%" alt="Todo App"/>
       <h3>📝 Todo App (RTK Query + Hooks)</h3>
       <p>React Hooks + Redux Toolkit Query with CRUD operations.</p>
       <a href="https://rtk-query-implementation.vercel.app/" target="_blank">🔗 Live Demo</a> | 
@@ -46,34 +46,11 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/muhammad-tahir-sultan/seoella-frontend/main/demo.png" width="100%" alt="Seoella"/>
-      <h3>📊 Seoella Frontend</h3>
-      <p>SEO management dashboard with TypeScript, Redux, and TailwindCSS.</p>
-      <a href="#" target="_blank">🔗 Live Demo</a> | 
-      <a href="https://github.com/muhammad-tahir-sultan/seoella-frontend" target="_blank">📂 Code</a>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/muhammad-tahir-sultan/multi-step-form/main/demo.png" width="100%" alt="Multi-Step Form"/>
-      <h3>🧾 Multi-Step Form</h3>
-      <p>Form handling with React Hook Form + Zod validation + localStorage persistence.</p>
-      <a href="#" target="_blank">🔗 Live Demo</a> | 
-      <a href="https://github.com/muhammad-tahir-sultan/multi-step-form" target="_blank">📂 Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="https://raw.githubusercontent.com/muhammad-tahir-sultan/portfolio/main/demo.png" width="100%" alt="Portfolio Website"/>
       <h3>🎨 Portfolio Website</h3>
       <p>Responsive personal portfolio built using React and TailwindCSS.</p>
-      <a href="#" target="_blank">🔗 Live Demo</a> | 
-      <a href="https://github.com/muhammad-tahir-sultan/portfolio" target="_blank">📂 Code</a>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/muhammad-tahir-sultan/auth-dashboard-app/main/demo.png" width="100%" alt="Auth Dashboard"/>
-      <h3>🔐 Auth Dashboard</h3>
-      <p>Role-based authentication system with protected routes.</p>
-      <a href="#" target="_blank">🔗 Live Demo</a> | 
-      <a href="https://github.com/muhammad-tahir-sultan/auth-dashboard-app" target="_blank">📂 Code</a>
+      <a href="https://tahirdev.vercel.app/" target="black">🔗 Live Demo</a> | 
+      <a href="#" target="_blank">📂 Code Private</a>
     </td>
   </tr>
 </table>
