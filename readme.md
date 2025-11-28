@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/muhammad-tahir-sultan/portfolio/main/demo.png" width="100%" alt="Portfolio Website"/>
+      <img src="https://drive.google.com/file/d/1efdMMwOEcye1x3OopCZlF_F8HFSJl96h/view?usp=sharing" width="100%" alt="Portfolio Website"/>
       <h3>🎨 Portfolio Website</h3>
       <p>Responsive personal portfolio built using React and TailwindCSS.</p>
       <a href="https://tahirdev.vercel.app/" target="black">🔗 Live Demo</a> | 
