@@ -1,59 +1,71 @@
 <!-- 💫 GitHub Profile README by Muhammad Tahir -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff">Muhammad Tahir</span></h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Senior Full Stack Engineer | Next.js Specialist | DevOps Enthusiast</h3>
 
 ---
 
 ### 💡 About Me  
-- 🧠 I love building **modern, interactive, and scalable web apps**.  
-- 🎯 Passionate about **clean code**, **UI/UX design**, and **smooth user flows**.  
-- 🌱 Currently exploring **Next.js**, **TypeScript**, and **backend integrations**.  
-- 💬 I enjoy helping others learn through **open-source** and **community projects**.  
-- ⚡ Motto: *“Strive for progress, not perfection.”*
+- 🧠 Senior-focused **Full Stack Engineer** specializing in building **high-performance, scalable web applications**.
+- 🎯 Architecting robust solutions with **Next.js 15**, **PostgreSQL**, and **Prisma** for enterprise-grade data management.
+- 🏗️ Expertise in **Containerization (Docker)** and streamlining delivery via **CI/CD** pipelines and **GitHub Actions**.
+- 💬 Deeply committed to **clean architecture**, **TDD**, and optimizing **web performance**.
+- ⚡ Motto: *“Code is for humans, execution is for machines.”*
 
 ---
 
-### 🧩 Tech Stack  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🧩 Tech Stack
+
+#### 🌐 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📁 Featured Projects  
+### 📁 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://i.ytimg.com/vi/tTCam8KGVRE/sddefault.jpg" width="100%" alt="Chat App"/>
-      <h3>💬 Real-time Chat App (MERN + Socket.io)</h3>
-      <p>Realtime messaging with authentication & WebSocket integration.</p>
-      <a href="https://chat-app-socket-io-mern.vercel.app/" target="_blank">🔗 Live Demo</a> | 
-      <a href="https://github.com/muhammad-tahir-sultan/chat-app-socket-io-MERN" target="_blank">📂 Code</a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://i.ytimg.com/vi/Z0OZUuBN4ng/sddefault.jpg" width="100%" alt="Todo App"/>
-      <h3>📝 Todo App (RTK Query + Hooks)</h3>
-      <p>React Hooks + Redux Toolkit Query with CRUD operations.</p>
-      <a href="https://rtk-query-implementation.vercel.app/" target="_blank">🔗 Live Demo</a> | 
-      <a href="https://github.com/muhammad-tahir-sultan/rtk-query-implementation" target="_blank">📂 Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://drive.google.com/file/d/1efdMMwOEcye1x3OopCZlF_F8HFSJl96h/view?usp=sharing" width="100%" alt="Portfolio Website"/>
-      <h3>🎨 Portfolio Website</h3>
-      <p>Responsive personal portfolio built using React and TailwindCSS.</p>
-      <a href="https://tahirdev.vercel.app/" target="black">🔗 Live Demo</a> | 
-      <a href="#" target="_blank">📂 Code Private</a>
-    </td>
-  </tr>
-</table>
+#### 🏛️ Full Stack & System Architecture
+- **[🎮 Escape Game Admin Dashboard](https://github.com/muhammad-tahir-sultan/game-escape-admin-dashboard-nextjs)**
+  - *Next.js 15, MongoDB, Passport.js, Framer Motion*
+  - A premium admin dashboard featuring glassmorphism and modern UI. Includes role-based access, server actions, and secure session management.
+- **[⚖️ Focus Flow - Discipline Tracker](https://github.com/muhammad-tahir-sultan/focus_flow_frontend)** ([Backend](https://github.com/muhammad-tahir-sultan/focus_flow_backend))
+  - *React, Node.js, Express, MongoDB*
+  - A high-performance productivity tool built with clean architecture and mobile-safe UI components.
+
+#### 🧪 Performance & Optimization Labs
+- **[⚡ React Performance Lab](https://github.com/muhammad-tahir-sultan/react-performance-lab)**
+  - *Advanced React, Profiling, Memoization*
+  - A controlled environment for intentionally creating and fixing performance bottlenecks. Demonstrates deep understanding of React's rendering cycle.
+- **[🚦 Slow/Fast API Simulator](https://github.com/muhammad-tahir-sultan/slow_fast_api_simulator_backend)**
+  - *Node.js, Performance Testing*
+  - Backend utility designed to simulate varying network conditions and API response latencies for resilient frontend testing.
+
+#### ⚙️ Backend & Specialized APIs
+- **[🛒 Matab E-commerce Backend](https://github.com/muhammad-tahir-sultan/matab-ecommerce-backend)**
+  - *Node.js, Express, Enterprise Architecture*
+  - Robust backend for scalable e-commerce applications with secure payment integrations and inventory management.
+- **[🕸️ GraphQL NestJS Implementation](https://github.com/muhammad-tahir-sultan/graphql_nestjs)**
+  - *NestJS, GraphQL, TypeScript*
+  - Enterprise-grade API design using NestJS and GraphQL for flexible, type-safe data fetching.
+
+#### 🐳 DevOps & Infrastructure
+- **[📦 MERN Docker Deployment](https://github.com/muhammad-tahir-sultan/docker-deployment-devops-mern)**
+  - *Docker, Docker Compose, CI/CD*
+  - Comprehensive containerization strategy for MERN stack applications, optimized for production-ready deployments.
 
 ---
 
