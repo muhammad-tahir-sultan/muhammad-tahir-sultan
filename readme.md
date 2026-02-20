@@ -71,8 +71,10 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-tahir-sultan&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-tahir-sultan&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-tahir-sultan&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-tahir-sultan&layout=compact&theme=tokyonight" height="180" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-tahir-sultan&theme=tokyonight" height="180" />
 </p>
 
 ---
@@ -81,7 +83,7 @@
 If you like what I do, consider **starring my repositories** 🌟 or **buying me a coffee** ☕  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad_tahir_sultan" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammadtahirsultan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/muhammad_tahir_sultan" target="_blank">
