@@ -69,7 +69,7 @@
 ### 📁 Selected Projects
 
 #### 🤖 AI Integration & Advanced Systems
-- **AI Image Enhancer System**
+- **[🖼️ AI Image Enhancer System](https://github.com/muhammad-tahir-sultan/AI_Image_Enhancer)**
   - *Deep learning powered tool to enhance image resolution and quality in seconds. Built with a focus on seamless user experience.*
 - **[⚖️ Focus Flow - Discipline Tracker](https://github.com/muhammad-tahir-sultan/focus_flow_frontend)**
   - *NestJS, PostgreSQL, Prisma, n8n, React, Tailwind CSS*
@@ -79,14 +79,14 @@
 - **[🎮 Escape Game Admin Dashboard](https://github.com/muhammad-tahir-sultan/game-escape-admin-dashboard-nextjs)**
   - *Next.js 15, MongoDB, Passport.js, Framer Motion*
   - A premium admin dashboard featuring Glassmorphism and modern UI. Includes role-based access, server actions, and secure session management.
-- **MobiCommerce - Online Shop**
+- **[📱 MobiCommerce - Online Shop](https://github.com/muhammad-tahir-sultan/mobileCommerce-frontend)**
   - Features premium smartphone discovery and accessories with high-performance UI components and fast delivery workflows.
 - **Full-Stack E-Commerce Platform**
   - *React.js, MongoDB, Stripe*
   - Comprehensive platform for secure, seamless online shopping experiences with Stripe integration.
 
 #### ⚡ Real-Time & High Performance
-- **Real Time Chat App**
+- **[💬 Real Time Chat App](https://github.com/muhammad-tahir-sultan/chat-app-socket-io-MERN)**
   - *Node.js, Express, React, MongoDB, Socket.io*
   - One-to-one chat application built for instant data synchronization and messaging.
 
