@@ -1,16 +1,35 @@
 <!-- 💫 GitHub Profile README by Muhammad Tahir -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff">Muhammad Tahir</span></h1>
-<h3 align="center">🚀 Senior Full Stack Engineer | Next.js Specialist | DevOps Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Integration Expert | Next.js & NestJS Specialist</h3>
 
 ---
 
 ### 💡 About Me  
-- 🧠 Senior-focused **Full Stack Engineer** specializing in building **high-performance, scalable web applications**.
-- 🎯 Architecting robust solutions with **Next.js 15**, **PostgreSQL**, and **Prisma** for enterprise-grade data management.
-- 🏗️ Expertise in **Containerization (Docker)** and streamlining delivery via **CI/CD** pipelines and **GitHub Actions**.
-- 💬 Deeply committed to **clean architecture**, **TDD**, and optimizing **web performance**.
+- 🧠 **Full Stack Developer** with 4+ years of experience specializing in building scalable web applications using **Next.js, React, NestJS, TypeScript, Python, and Django**.
+- 🤖 Proven track record in designing secure **AI-powered APIs** and implementing AI Integrations (**OpenAI, Claude, LangChain**).
+- 🗄️ Expert in **PostgreSQL, Prisma, Supabase**, and cloud infrastructure (**AWS, Docker**).
+- 🏗️ Deeply committed to **Clean Architecture**, **Microservices**, and optimizing **web performance**.
+- 🛠️ Skilled in leveraging AI Tools (**Cursor, Antigravity, Qoder, Copilot**) to accelerate development cycles.
 - ⚡ Motto: *“Code is for humans, execution is for machines.”*
+
+---
+
+### 💼 Professional Experience
+
+#### 👨‍💻 Software Engineer @ Sparkosol *(2024 - Present)*
+- Architected scalable web applications using **NestJS** and **React**, focusing on high-traffic resilience.
+- Leveraged **AWS (EC2/S3)** for scalable resource management and cloud storage solutions.
+- Implemented complex RBAC systems and secure authentication workflows.
+- Optimized database performance via **PostgreSQL** query tuning, reducing response times by 30%.
+- Applied **Clean Architecture** principles to maintain a decoupled and testable codebase.
+
+#### 👨‍💻 MERN Stack Developer @ Hashtagweb *(2022 - 2024)*
+- Led backend development for 4+ web applications, ensuring robust API integration and security.
+- Integrated **Supabase** and **PostgreSQL** for real-time data synchronization.
+- Achieved average Lighthouse scores of 85+ through advanced frontend optimization.
+- Contributed to a 40% increase in client revenue by delivering high-performance UIs using **React** & **Tailwind**.
+- Streamlined development workflows by mentoring junior developers on MERN best practices.
 
 ---
 
@@ -21,51 +40,55 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-#### ⚙️ Backend & Database
+#### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### 🚀 DevOps & Tools
+#### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🚀 DevOps, Cloud & AI Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ---
 
-### 📁 Featured Projects
+### 📁 Selected Projects
 
-#### 🏛️ Full Stack & System Architecture
+#### 🤖 AI Integration & Advanced Systems
+- **AI Image Enhancer System**
+  - *Deep learning powered tool to enhance image resolution and quality in seconds. Built with a focus on seamless user experience.*
+- **[⚖️ Focus Flow - Discipline Tracker](https://github.com/muhammad-tahir-sultan/focus_flow_frontend)**
+  - *NestJS, PostgreSQL, Prisma, n8n, React, Tailwind CSS*
+  - A productivity platform with real-time analytics. Engineered backend using NestJS, PostgreSQL (Prisma), and automated workflows with n8n.
+
+#### 🏛️ Full Stack & E-Commerce Architecture
 - **[🎮 Escape Game Admin Dashboard](https://github.com/muhammad-tahir-sultan/game-escape-admin-dashboard-nextjs)**
   - *Next.js 15, MongoDB, Passport.js, Framer Motion*
-  - A premium admin dashboard featuring glassmorphism and modern UI. Includes role-based access, server actions, and secure session management.
-- **[⚖️ Focus Flow - Discipline Tracker](https://github.com/muhammad-tahir-sultan/focus_flow_frontend)** ([Backend](https://github.com/muhammad-tahir-sultan/focus_flow_backend))
-  - *React, Node.js, Express, MongoDB*
-  - A high-performance productivity tool built with clean architecture and mobile-safe UI components.
+  - A premium admin dashboard featuring Glassmorphism and modern UI. Includes role-based access, server actions, and secure session management.
+- **MobiCommerce - Online Shop**
+  - Features premium smartphone discovery and accessories with high-performance UI components and fast delivery workflows.
+- **Full-Stack E-Commerce Platform**
+  - *React.js, MongoDB, Stripe*
+  - Comprehensive platform for secure, seamless online shopping experiences with Stripe integration.
 
-#### 🧪 Performance & Optimization Labs
-- **[⚡ React Performance Lab](https://github.com/muhammad-tahir-sultan/react-performance-lab)**
-  - *Advanced React, Profiling, Memoization*
-  - A controlled environment for intentionally creating and fixing performance bottlenecks. Demonstrates deep understanding of React's rendering cycle.
-- **[🚦 Slow/Fast API Simulator](https://github.com/muhammad-tahir-sultan/slow_fast_api_simulator_backend)**
-  - *Node.js, Performance Testing*
-  - Backend utility designed to simulate varying network conditions and API response latencies for resilient frontend testing.
-
-#### ⚙️ Backend & Specialized APIs
-- **[🛒 Matab E-commerce Backend](https://github.com/muhammad-tahir-sultan/matab-ecommerce-backend)**
-  - *Node.js, Express, Enterprise Architecture*
-  - Robust backend for scalable e-commerce applications with secure payment integrations and inventory management.
-- **[🕸️ GraphQL NestJS Implementation](https://github.com/muhammad-tahir-sultan/graphql_nestjs)**
-  - *NestJS, GraphQL, TypeScript*
-  - Enterprise-grade API design using NestJS and GraphQL for flexible, type-safe data fetching.
-
-#### 🐳 DevOps & Infrastructure
-- **[📦 MERN Docker Deployment](https://github.com/muhammad-tahir-sultan/docker-deployment-devops-mern)**
-  - *Docker, Docker Compose, CI/CD*
-  - Comprehensive containerization strategy for MERN stack applications, optimized for production-ready deployments.
+#### ⚡ Real-Time & High Performance
+- **Real Time Chat App**
+  - *Node.js, Express, React, MongoDB, Socket.io*
+  - One-to-one chat application built for instant data synchronization and messaging.
 
 ---
 
@@ -76,6 +99,12 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-tahir-sultan&theme=tokyonight" height="180" />
 </p>
+
+---
+
+### 🎓 Education
+- **BS Computer Science** — BZU Multan *(2021 – 2025)*
+- **Intermediate (ICS)** — DG Khan Board *(2019 – 2021)*
 
 ---
 
